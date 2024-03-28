@@ -1,0 +1,17 @@
+.logo{
+    height: 100px;
+    width: 100px;
+    border: 6px solid rgb(227, 247, 251);
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(to right, #0084ff, #00ffb9);
+    position: absolute;
+}
+
+.title{
+    font-size: 50px;
+    font-weight: 600;
+    color: #ffffff;
+}
